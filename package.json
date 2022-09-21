@@ -14,7 +14,7 @@
   "devDependencies": {
     "@astrojs/tailwind": "^1.0.0",
     "@types/micromodal": "^0.3.3",
-    "astro": "^1.2.1",
+    "astro": "^1.2.8",
     "astro-eleventy-img": "^0.5.0",
     "astro-icon": "^0.7.3",
     "prettier": "2.7.1",
@@ -23,6 +23,20 @@
     "tailwindcss-fluid-type": "^1.3.3"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^2.0.0",
     "micromodal": "^0.4.10"
-  }
+  },
+  "description": "An Astro + Tailwind CSS starter kit for landing pages.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EverythingisIrrelevant/astro-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EverythingisIrrelevant/astro-landing-page/issues"
+  },
+  "homepage": "https://github.com/EverythingisIrrelevant/astro-landing-page#readme"
 }
